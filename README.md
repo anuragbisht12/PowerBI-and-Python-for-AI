@@ -1,3 +1,3 @@
 # PowerBI_Datascience
 
-Power BI reports
+Power BI with Python
