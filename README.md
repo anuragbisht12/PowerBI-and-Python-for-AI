@@ -1,3 +1,3 @@
 # PowerBI_Datascience
 
-Power BI with Python
+Leveraging power BI and Python to build actionable insights using Machine Learning and NLP.
